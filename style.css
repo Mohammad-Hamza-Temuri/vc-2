@@ -27,7 +27,6 @@ h2{
 .clock span{
      width: 100px;
      height: 100px;
-     background-color: darkblue;
      opacity: 85%;
      color: white;
      justify-content: center;
@@ -41,7 +40,6 @@ h2{
     font-size: 20px;
     text-transform: uppercase;
     letter-spacing: 2px;
-    background:blue;
     opacity: 85%;
 }
 .clock #ampm{
@@ -50,7 +48,6 @@ h2{
     width: 60px;
     height: 30px;
     font-size: 20px;
-    background:darkgreen;
     text-align: center;
     margin-left: 10px;
     margin-bottom: 10px;
